@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaiasree2024
 - 👀 I’m interested in testing Automation
-- 🌱 I’m currently learning playwright
+- 🌱 I’m currently learning playwright using Typescript
 - 💞️ I’m looking to collaborate on ...
 - 
 
